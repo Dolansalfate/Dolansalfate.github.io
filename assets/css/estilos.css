@@ -17,6 +17,9 @@ body {
 .containerSecB {
   color: black;
 }
+.containerSecC {
+  color: rgb(49, 44, 44);
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
