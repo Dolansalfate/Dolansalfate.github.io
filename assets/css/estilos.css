@@ -13,7 +13,9 @@ body {
 .container {
   color: blue;
 }
-
+.container p {
+  color: rgb(253, 251, 251);
+}
 .containerSecB {
   color: black;
 }
