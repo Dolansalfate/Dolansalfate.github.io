@@ -3,6 +3,14 @@ body {
   background-color: rgb(0, 162, 255);
 }
 
+/* Portafolio */
+
+.Titulo_Portafolio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -12,10 +20,10 @@ body {
   background-position: left;
 }
 .container {
-  color: blue;
+  color: rgb(85, 154, 243);
 }
 .container p {
-  color: rgb(253, 251, 251);
+  color: rgb(224, 193, 19);
 }
 .containerSecB {
   color: black;
